@@ -1,0 +1,15 @@
+identifier: "Community.Games.SevenDaysToDieTest"
+name: "7 Days to Die Test"
+version: "1.0.0"
+author: "alvarengasv"
+shortDescription: "Empty-repository share test. Safe to delete."
+longDescription: |
+  # 7 Days to Die Test
+  
+  Created to verify that TCAdmin can publish into a GitHub repository with no commits.
+tags:
+  - "Game"
+  - "Windows"
+files:
+  - path: "7DTD - Windows.json"
+    type: "GameConfig"
